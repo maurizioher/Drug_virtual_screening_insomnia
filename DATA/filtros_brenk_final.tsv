@@ -1,0 +1,47 @@
+ID	Name	SMARTS
+3	acyclic C=C-O	C=[C!r]O
+4	acyl cyanide	N#CC(=O)
+5	acyl hydrazine	C(=O)N[NH2]
+6	aldehyde	[CH1](=O)
+7	Aliphatic long chain	"[R0;D2][R0;D2][R0;D2][R0;D2]"
+8	alkyl halide	[CX4][Cl,Br,I]
+9	amidotetrazole	c1nnnn1C=O
+10	aniline	c1cc([NH2])ccc1
+11	azepane	[CH2R2]1N[CH2R2][CH2R2][CH2R2][CH2R2][CH2R2]1
+12	Azido group	N=[N+]=[N-]
+13	Azo group	N#N
+14	azocane	[CH2R2]1N[CH2R2][CH2R2][CH2R2][CH2R2][CH2R2][CH2R2][CH2R2]1
+15	benzidine	[cR2]1[cR2][cR2]([N!R])[cR2][cR2]c1-c2cc(N)ccc2
+16	beta-keto/anhydride	[C,c](=O)[CX4,O][C,c](=O)
+17	biotin analogue	C12C(NC(N1)=O)CSC2
+18	Carbo cation/anion	[C+,c+,C-,c-]
+19	catechol	c1c([OH])c([OH,NH2,NH])ccc1
+20	charged oxygen or sulfur	[O+,S+]
+21	chinone (Quinona)	C1(=[O,N])C=CC(=[O,N])C=C1
+22	conjugated nitrile	C=[C!r]C#N
+23	crown ether	[OR2,NR2]@[CR2]@[CR2]@[OR2,NR2]
+24	cumarine	c1ccc2c(c1)ccc(=O)o2
+25	cyanamide	N[CH2]C#N
+26	cyanate/aminonitrile	[N,O,S]C#N
+27	cyanohydrins	N#CC[OH]
+28	cycloheptane	[CR2]1[CR2][CR2][CR2][CR2][CR2][CR2]1
+29	cyclooctane	[CR2]1[CR2][CR2][CR2][CR2][CR2][CR2][CR2]1
+30	diaminobenzene	c1ccc(N)c(N)c1
+31	diazo group	[N!R]=[N!R]
+32	diketo group	[C,c](=O)[C,c](=O)
+33	disulphide	SS
+34	enamine	[CX2R0][NX3R0]
+35	ester of HOBT	C(=O)Onn
+36	heavy metal	[Hg,Fe,As,Sb,Zn,Se,se,Te,B,Si]
+37	hydantoin	C1NC(=O)NC(=O)1
+38	hydrazine	N[NH2]
+39	hydroxamic acid	C(=O)N[OH]
+40	imine	C=[N!R]
+41	iodine	I
+42	isocyanate	N=C=O
+43	ketene	C=C=O
+44	Michael acceptor	C=!@CC=[O,S]
+45	nitro group	[N+](=O)[O-]
+46	N-nitroso	[#7]-N=O
+47	peroxide	OO
+48	triple bond	C#C
