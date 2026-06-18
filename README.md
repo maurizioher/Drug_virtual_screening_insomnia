@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="FIGURES/COVER.png" alt="Project Cover" width="100%">
+</p>
+
 # In Silico Identification of Novel Compounds for Insomnia Disease
 
 **Author:** Maurizio Rafael Hernández Díaz
